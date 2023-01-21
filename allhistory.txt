@@ -1,0 +1,175 @@
+    1  git clone https://github.com/mansi-manhas/shopping-cart-react-typescript.git
+    2  git clone https://github.com/AlexSegen/react-shopping-cart.git
+    3  git init
+    4  git status
+    5  git add .
+    6  git commit -m "First Commit"
+    7  git config -g user.name "Chiranthan"
+    8  git config --global user.name "Chiranthan"
+    9  git config --global user.email "Chiranthangowda4224@gmail.com"
+   10  git commit -m "First Commit"
+   11  git stitus
+   12  git status
+   13  git status
+   14  git log
+   15  echo "# Insta-Downloader" >> README.md
+   16  git remote add origin https://github.com/Chiranthan04/Insta-Downloader.git
+   17  git push origin master
+   18  git push origin master
+   19  git push origin master
+   20  git push origin master
+   21  claer
+   22  cls
+   23  clear
+   24  git init
+   25  git status
+   26  git init
+   27  git intit
+   28  git inti
+   29  git init
+   30  git status
+   31  git add .
+   32  git commit -m "First commit after full code 16/1/2023"
+   33  git push add origin1 https://github.com/Chiranthan04/Shopping-Cart-Using-React-js.git
+   34  git remote add origin1 https://github.com/Chiranthan04/Shopping-Cart-Using-React-js.git
+   35  git push origin1 master
+   36  git add .
+   37  git commit -m "Second commit"
+   38  git status
+   39  git remote add origin1 https://github.com/Chiranthan04/Shopping-Cart-Using-React-js.git
+   40  git remote add origin1 https://github.com/Chiranthan04/Shopping-Cart-Using-React-js.git
+   41  git push origin1 master
+   42  git remote add origin1 https://github.com/Chiranthan04/Shopping-Cart-Using-React-js.git
+   43  git remote add origin https://github.com/Chiranthan04/Shopping-Cart-Using-React-js.git
+   44  git push origin master
+   45  git add .
+   46  git status
+   47  git init
+   48  git status
+   49  git add .
+   50  git commit -m "first commit"
+   51  git remote add origin https://github.com/Chiranthan04/Fun-Facts-About-Technology.git
+   52  git push origin master
+   53  git -version
+   54  git -v
+   55  git status
+   56  git init
+   57  >ttt.txt
+   58  ls
+   59  nano ttt.txt
+   60  output >ttt.txt
+   61  histry
+   62  history
+   63  history > hh.txt
+   64  git user
+   65  git --global user
+   66  git user --help
+   67  git --help
+   68  git config user.name
+   69  git config user.email
+   70  git show
+   71  git log
+   72  git status
+   73  git add .
+   74  git status
+   75  git commit -m "First Commit with Txt files"
+   76  git status
+   77  git show
+   78  git log
+   79  git show 8e3b89607863febc9d49b34a52ced6967ea4fc82
+   80  git reset
+   81  git status
+   82  git log
+   83  git status
+   84  git add .
+   85  git reset
+   86  git status
+   87  git commit -m "Deleted ttt file"
+   88  git status
+   89  git add .
+   90  git commit -m "Deleted ttt file"
+   91  git status
+   92  git sa\tuFunction Key 6s
+   93  status
+   94  git status
+   95  git stash
+   96  git stash show
+   97  git add .
+   98  git commit -m "Therd Commit"
+   99  git stash show
+  100  git stash clear
+  101  git stash show
+  102  git status
+  103  git show
+  104  git log
+  105  git show [200~
+  106  git show 
+  107  git show d0ee9242f3ee7d18a7cc24d70dd48cd5620e86e3
+  108  git branch bugfix
+  109  git switch bugfix 
+  110  git branch
+  111  git switch -c developer
+  112  git branch
+  113  git checkout bugfix 
+  114  git branch
+  115  git status
+  116  git add .
+  117  git commit -m "First commit in bugfix"
+  118  git log
+  119  git merge master 
+  120  git witch master
+  121  git switch master
+  122  git merge bugfix
+  123  git status
+  124  git log
+  125  git remote add origin 
+  126   
+  127  git remote add origin https://github.com/Chiranthan04/Testing.git
+  128  git push origin master
+  129  git status
+  130  git add .
+  131  git commit -m "Pushed to github"
+  132  git push origin master
+  133  git checkout developer
+  134  git add .
+  135  git commit -m "First commit in developer"
+  136  git switch bugfix 
+  137  git commit -ma "Cool bug"
+  138  git commit -m -a "Cool bug"
+  139  git commit -am "Cool bug"
+  140  git status
+  141  git commit -a -m "Cool bug"
+  142  git add .
+  143  git commit -m "Cool bug"
+  144  git log
+  145  git switch developer
+  146  git merge bugfix 
+  147  git status
+  148  git add .
+  149  git commit -m "Deleted folder in developer commit"
+  150  git merge bugfix 
+  151  git bugfix
+  152  git switch bugfix
+  153  git checkout developer
+  154  git push origin master
+  155  git status
+  156  git log
+  157  git branch
+  158  git switch master
+  159  git push origin master
+  160  touch .gitignore
+  161  git status
+  162  git status
+  163  git status
+  164  git add .
+  165  git commit -m "I creade a gitignore filr a ignored a file"
+  166  git status
+  167  git log
+  168  git merge developer
+  169  git push origin master
+  170  git pull https://github.com/Chiranthan04/Testing.git
+  171  git status
+  172  git init
+  173  git pull https://github.com/Chiranthan04/Testing.git
+  174  history
+  175  history > allhistory.txt

@@ -61,3 +61,6 @@
    61  histry
    62  history
    63  history > hh.txt
+
+
+ther wre somr mistake
