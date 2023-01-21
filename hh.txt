@@ -1,0 +1,63 @@
+    1  git clone https://github.com/mansi-manhas/shopping-cart-react-typescript.git
+    2  git clone https://github.com/AlexSegen/react-shopping-cart.git
+    3  git init
+    4  git status
+    5  git add .
+    6  git commit -m "First Commit"
+    7  git config -g user.name "Chiranthan"
+    8  git config --global user.name "Chiranthan"
+    9  git config --global user.email "Chiranthangowda4224@gmail.com"
+   10  git commit -m "First Commit"
+   11  git stitus
+   12  git status
+   13  git status
+   14  git log
+   15  echo "# Insta-Downloader" >> README.md
+   16  git remote add origin https://github.com/Chiranthan04/Insta-Downloader.git
+   17  git push origin master
+   18  git push origin master
+   19  git push origin master
+   20  git push origin master
+   21  claer
+   22  cls
+   23  clear
+   24  git init
+   25  git status
+   26  git init
+   27  git intit
+   28  git inti
+   29  git init
+   30  git status
+   31  git add .
+   32  git commit -m "First commit after full code 16/1/2023"
+   33  git push add origin1 https://github.com/Chiranthan04/Shopping-Cart-Using-React-js.git
+   34  git remote add origin1 https://github.com/Chiranthan04/Shopping-Cart-Using-React-js.git
+   35  git push origin1 master
+   36  git add .
+   37  git commit -m "Second commit"
+   38  git status
+   39  git remote add origin1 https://github.com/Chiranthan04/Shopping-Cart-Using-React-js.git
+   40  git remote add origin1 https://github.com/Chiranthan04/Shopping-Cart-Using-React-js.git
+   41  git push origin1 master
+   42  git remote add origin1 https://github.com/Chiranthan04/Shopping-Cart-Using-React-js.git
+   43  git remote add origin https://github.com/Chiranthan04/Shopping-Cart-Using-React-js.git
+   44  git push origin master
+   45  git add .
+   46  git status
+   47  git init
+   48  git status
+   49  git add .
+   50  git commit -m "first commit"
+   51  git remote add origin https://github.com/Chiranthan04/Fun-Facts-About-Technology.git
+   52  git push origin master
+   53  git -version
+   54  git -v
+   55  git status
+   56  git init
+   57  >ttt.txt
+   58  ls
+   59  nano ttt.txt
+   60  output >ttt.txt
+   61  histry
+   62  history
+   63  history > hh.txt
